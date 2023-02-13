@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hello World</title>
+    </head>
+    <body>
+        <h1>Hello World example</h1>
+        <p>
+          <img src="images/helloworld.jpg" alt="Hello World Docker" width="300" height="100">
+    </body>
+</html>
